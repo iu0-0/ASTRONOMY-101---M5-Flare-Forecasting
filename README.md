@@ -59,6 +59,3 @@ pip install -r requirements.txt
 jupyter notebook notebooks/M5_Flare_Problem.ipynb
 ```
 
-## License
-
-MIT — see `LICENSE`.
